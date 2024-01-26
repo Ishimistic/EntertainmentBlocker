@@ -1,0 +1,20 @@
+{
+    "name": "SiteBlocker",
+    "version": "1.0",
+    "description": "Block the Sites",
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "https://www.netflix.com/*",
+        "https://fmoviesz.to/*"
+    ],
+    "background" : {
+       "scripts" : ["background.js"]
+    },
+    "icons" : {
+        "16" : "icons/plant_16.png",
+        "48" : "icons/plant_32.png",
+        "128" : "icons/plant_128.png"
+    },
+    "manifest_version" : 2
+}
