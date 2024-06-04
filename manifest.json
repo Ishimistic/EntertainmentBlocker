@@ -1,12 +1,22 @@
 {
-    "name": "SiteBlocker",
+    "name": "EntertainmentBlocker",
     "version": "1.0",
-    "description": "Block the Sites",
+    "description": "Block all the popular ott platforms and prevent you to accessing the",
     "permissions": [
         "webRequest",
         "webRequestBlocking",
         "https://www.netflix.com/*",
-        "https://fmoviesz.to/*"
+        "https://fmoviesz.to/*",
+        "https://www.hotstar.com/in/home?ref=%2Fin",
+        "https://www.jiocinema.com/",
+        "https://www.primevideo.com/",
+        "https://www.sonyliv.com/",
+        "https://www.amazon.in/minitv",
+        "https://www.zee5.com/",
+        "https://aniwave.to/",
+        "https://w7.animeland.tv/",
+        "https://www.animeout.xyz/",
+        "https://animeultima.su/"
     ],
     "background" : {
        "scripts" : ["background.js"]
