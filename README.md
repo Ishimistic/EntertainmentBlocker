@@ -116,3 +116,10 @@ Your privacy is our priority. This extension:
 
 > You stay in full control — no data leaves your machine.
 
+## 🤝 Contributing
+Contributions, feature requests, and suggestions are welcome!
+Feel free to fork the repository and submit a pull request.
+
+## 🙌 Support
+If you found this useful, give it a ⭐ on GitHub and share it with fellow productivity geeks!
+
