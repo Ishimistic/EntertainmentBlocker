@@ -1,6 +1,8 @@
 # 🎯 EntertainmentBlocker — Block Distractions, Stay Focused
 
-**EntertainmentBlocker** is a no-nonsense Chrome extension that helps you reclaim your focus by **blocking access to popular OTT and entertainment platforms** like YouTube, Netflix, and Instagram — before they even load.
+**EntertainmentBlocker** is a lightweight Chrome extension designed to help you stay focused by **blocking access to popular entertainment** and OTT platforms like YouTube, Netflix, Jio Hotstar, Amazon prime etcetra .
+
+Whether you're trying to study, work, or just take control of your screen time, EntertainmentBlocker silently runs in the background and **cancels distracting site requests** before they're even loaded.
 
 No user interface. No trackers. Just pure productivity.
 
