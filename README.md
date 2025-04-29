@@ -91,13 +91,14 @@ const blockedSites = [
   "*://*.crunchyroll.com/*",
   "*://*.animelab.com/*"
 ];
+```
 4. To block a new website, add its pattern to the array.
 5. To unblock a website, simply remove its entry.
 6. Save the file.
 7. Reload the extension:
   - Go to chrome://extensions/
   - Click "Reload" on entertainmentBlocker
-```
+
 
 
 
