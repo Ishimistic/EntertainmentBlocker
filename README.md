@@ -35,8 +35,10 @@ EntertainmentBlocker uses the `chrome.webRequest` API to intercept and cancel HT
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/yourusername/entertainment-blocker.git
-
-
+2. Open Chrome and go to chrome://extensions/
+3. Enable Developer mode (toggle in top right).
+4. Click Load unpacked and select the project folder.
+5. The extension will now start blocking predefined entertainment sites.
 
 ## 📵 Blocked Websites
 
